@@ -1,2 +1,2 @@
-What is a remote repository?
-A remote repository saves your answer somewhere online (think github). 
+What is the difference between a merge and a rebase?
+merge saves history, rebase does not, it re-writes. 
