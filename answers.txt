@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repository saves your answer somewhere online (think github). 
