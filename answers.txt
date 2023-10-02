@@ -1,0 +1,2 @@
+What is a remote repository?
+Repository that saves your project online (github).
